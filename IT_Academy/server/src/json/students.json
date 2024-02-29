@@ -1,0 +1,41 @@
+[
+    {
+        "id": 5,
+        "dni": "53851086",
+        "nombre": "Ignacio",
+        "apellido": "Neira",
+        "direccion": "Lomas de Zamora",
+        "email": "nachoneira1111@gmail.com",
+        "telefono": "0949444094",
+        "nacionalidad": "uy",
+        "nivelEducativo": "Universitária",
+        "edoCivil": "Soltero(a)",
+        "condTermino": true
+    },
+    {
+        "id": 10,
+        "dni": "20300400",
+        "nombre": "Josselyn",
+        "apellido": "Davis",
+        "direccion": "Enriqueta Compt y Rique",
+        "email": "sirbrv@gmail.com",
+        "telefono": "093901698",
+        "nacionalidad": "ar",
+        "nivelEducativo": "Universitária",
+        "edoCivil": "No informa",
+        "condTermino": true
+    },
+    {
+        "id": 20,
+        "dni": "20300401",
+        "nombre": "Luis",
+        "apellido": "Pérez",
+        "direccion": "Enriqueta Compt y Rique",
+        "email": "luisp@gmail.com",
+        "telefono": "093903094",
+        "nacionalidad": "uy",
+        "nivelEducativo": "Universitária",
+        "edoCivil": "Casado(a)",
+        "condTermino": true
+    }
+]

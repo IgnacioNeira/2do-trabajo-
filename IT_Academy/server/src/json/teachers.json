@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "dni": "111111111",
+        "nombre": "Carmen",
+        "apellido": "Hernández",
+        "direccion": "Enriqueta Compt y Rique",
+        "email": "carmen@gmail.com",
+        "telefono": "0949444094",
+        "nacionalidad": "cl",
+        "nivelEducativo": "Básico",
+        "edoCivil": "Soltero(a)",
+        "isActive": true
+    },
+    {
+        "id": 8,
+        "dni": "20300400",
+        "nombre": "Josselyn",
+        "apellido": "Davis",
+        "direccion": "Enriqueta Compt y Rique",
+        "email": "sirbrv@gmail.com",
+        "telefono": "093901698",
+        "nacionalidad": "ar",
+        "nivelEducativo": "Universitária",
+        "edoCivil": "No informa",
+        "isActive": true
+    },
+    {
+        "id": 16,
+        "dni": 55752293,
+        "nombre": "Loco",
+        "email": "azul2@gmail.com",
+        "telefono": "093412342"
+    }
+] 

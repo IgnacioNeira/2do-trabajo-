@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "courseCode": 1,
+        "studentDni": 5,
+        "teacherDni": 1,
+        "courseStarts": "2024-02-25",
+        "courseEnds": "2024-02-28"
+    },
+    {
+        "id": 3,
+        "courseCode": 3,
+        "studentDni": 28,
+        "teacherDni": 123,
+        "courseStarts": "2024-02-25",
+        "courseEnds": "2024-02-28"
+    },
+    {
+        "id": 12,
+        "courseCode": 14,
+        "studentDni": 28,
+        "teacherDni": 123,
+        "courseStarts": "2024-02-25",
+        "courseEnds": "2024-02-28"
+    }
+]
